@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;time2Go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../GOPATH/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../GOPATH/src/mahonia" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../GOPATH/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../GOPATH/src/mahonia" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
